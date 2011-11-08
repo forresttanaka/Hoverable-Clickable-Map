@@ -1,0 +1,4 @@
+/* For IE 6 and 7, use a transparent GIF instead of the normal PNG to avoid visual artifacts */
+.dot {
+	background: url(../../images/dot.gif) no-repeat left top;
+}
